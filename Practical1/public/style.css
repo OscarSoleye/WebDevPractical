@@ -1,0 +1,12 @@
+table, td, th {
+    border: black 2px solid;
+    width: 800px;
+    padding: 15px;
+    vertical-align: top;
+}
+th {
+   font-weight: bold;
+}
+img {
+
+}
